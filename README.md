@@ -1,4 +1,1 @@
-## <u>Practice Projects</u>
-
-### 1. Movie Ranking App
-### 2. Birthday Invite Project
+## The Complete Full-Stack Web Development Bootcamp by Angela Yu
